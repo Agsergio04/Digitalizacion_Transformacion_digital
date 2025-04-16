@@ -4,19 +4,19 @@
 
 ### ¿Qué objetivos estratégicos específicos de la empresa aborda tu software?
 - **Centralización y automatización de la gestión operativa:**  
-  Facilita la coordinación de tareas y la organización de eventos y citas, reduciendo la dependencia de métodos manuales.
+  El software facilita la coordinación de tareas y la organización de eventos y citas, eliminando la dependencia de métodos manuales.
 - **Optimización de recursos y eficiencia operativa:**  
-  Automatiza recordatorios y asignación de tareas, ayudando a reducir tiempos improductivos y a minimizar errores en la planificación.
+  Automatiza recordatorios y la asignación de tareas, lo que contribuye a reducir los tiempos improductivos y minimiza los errores en la planificación.
 - **Mejora en la comunicación interna:**  
-  Sincroniza calendarios y agendas, fortaleciendo la cohesión entre equipos y departamentos.
+  Al sincronizar calendarios y agendas, fortalece la cohesión entre equipos y departamentos, mejorando la comunicación en toda la organización.
 
 ### ¿Cómo se alinea el software con la estrategia general de digitalización?
 - **Digitalización de procesos manuales:**  
-  Transforma tareas y gestión de eventos que se realizan de forma tradicional en procesos automatizados.
+  Transforma tareas y la gestión de eventos que se realizaban de forma tradicional en procesos automatizados.
 - **Integración con sistemas externos:**  
-  Se conecta con APIs y servicios (por ejemplo, Google Calendar) para centralizar la información en una única plataforma.
+  Se conecta con APIs y servicios (por ejemplo, Google Calendar) para centralizar la información en una única plataforma, facilitando la integración tecnológica.
 - **Soporte para la toma de decisiones:**  
-  Proporciona datos en tiempo real y reportes automatizados que facilitan el análisis y mejoran la toma de decisiones estratégicas.
+  Proporciona datos en tiempo real y reportes automatizados que sirven de herramienta para analizar el rendimiento y tomar decisiones estratégicas basadas en información consolidada.
 
 ---
 
@@ -24,19 +24,19 @@
 
 ### ¿Qué áreas de la empresa (producción, negocio, comunicaciones) se ven más beneficiadas con tu software?
 - **Producción y operaciones:**  
-  Mejor planificación y asignación de recursos que agilizan la ejecución de tareas.
+  Mejora la planificación y la asignación de recursos, agilizando la ejecución de tareas.
 - **Negocio y gestión de proyectos:**  
-  Seguimiento detallado de tareas y objetivos comerciales, permitiendo un flujo de trabajo más eficiente.
+  Permite un seguimiento detallado de tareas y objetivos comerciales, contribuyendo a un flujo de trabajo más eficiente.
 - **Comunicaciones internas:**  
-  Sincronización de calendarios y agendas, lo que fortalece la coordinación entre departamentos.
+  La sincronización de calendarios y agendas promueve una mejor coordinación entre los distintos departamentos y equipos.
 
 ### ¿Qué impacto operativo esperas en las operaciones diarias?
 - **Reducción de errores y tiempos de espera:**  
-  Gracias a la automatización de asignaciones y recordatorios.
+  La automatización de asignaciones y recordatorios disminuye los errores humanos y agiliza la ejecución de tareas.
 - **Mejora en la coordinación y colaboración:**  
-  A través de reportes de progreso y notificaciones automáticas, facilitando el trabajo en equipo.
+  Reportes de progreso y notificaciones automáticas permiten un trabajo en equipo más coordinado y eficiente.
 - **Optimización en la toma de decisiones:**  
-  La centralización y análisis de datos en tiempo real permite identificar cuellos de botella y oportunidades de mejora.
+  La centralización y el análisis en tiempo real de los datos ayudan a identificar cuellos de botella y oportunidades para mejorar procesos operativos.
 
 ---
 
@@ -44,19 +44,19 @@
 
 ### ¿Qué áreas de la empresa son más susceptibles de ser digitalizadas con tu software?
 - **Gestión de proyectos y tareas:**  
-  Especialmente aquellas que actualmente se gestionan manualmente o de forma dispersa.
+  Especialmente aquellas áreas que actualmente se gestionan manualmente o de forma dispersa, donde la automatización puede aportar mayor eficiencia.
 - **Programación y coordinación de reuniones/eventos:**  
-  Donde la sincronización de agendas es crucial para evitar sobreposiciones y conflictos.
+  Donde la sincronización de agendas es crucial para evitar solapamientos y conflictos.
 - **Control y seguimiento administrativo:**  
-  Procesos rutinarios que se beneficiarán de la automatización para minimizar errores humanos.
+  Procesos rutinarios que se benefician significativamente de la automatización para minimizar errores y aumentar la eficiencia.
 
 ### ¿Cómo mejorará la digitalización las operaciones en esas áreas?
 - **Automatización de procesos:**  
-  Incorporación de recordatorios y asignación automática de tareas, eliminando la necesidad de registros manuales.
+  La implementación de recordatorios y asignación automática de tareas elimina la necesidad de registros manuales y reduce la carga administrativa.
 - **Visibilidad y transparencia:**  
-  Centralización de la información que facilita el seguimiento del progreso y la detección temprana de problemas.
+  La centralización de la información facilita el seguimiento del progreso y la identificación temprana de problemas, lo que permite corregir incidencias de forma ágil.
 - **Mejora en la toma de decisiones:**  
-  Datos centralizados y análisis en tiempo real permiten ajustes ágiles en la estrategia operativa.
+  Al consolidar datos y permitir el análisis en tiempo real, la digitalización permite ajustes inmediatos en las estrategias operativas.
 
 ---
 
@@ -64,17 +64,17 @@
 
 ### ¿Cómo interactúan las áreas digitalizadas con las no digitalizadas?
 - **Interacción mixta:**  
-  Las áreas digitalizadas operan con procesos automatizados, mientras que las no digitalizadas continúan utilizando métodos tradicionales (por ejemplo, registros en papel o hojas de cálculo).
+  Las áreas digitalizadas operan mediante procesos automatizados, mientras que las no digitalizadas siguen utilizando métodos tradicionales (por ejemplo, registros en papel o hojas de cálculo). Esto crea un entorno híbrido donde ambos sistemas deben complementarse.
 - **Actuación como puente:**  
-  La aplicación actúa de puente entre ambos entornos, permitiendo la exportación de informes y la integración mediante APIs, lo que facilita el acceso a la información entre ambos sistemas.
+  El software funciona como un puente que conecta ambos entornos, permitiendo la exportación de informes y la integración mediante APIs para compartir información entre sistemas.
 
 ### ¿Qué soluciones o mejoras propondrías para integrar estas áreas?
 - **Capacitación y soporte:**  
-  Implementar programas de formación para familiarizar a los equipos con las herramientas digitales.
+  Implementar programas de formación para que los equipos no digitalizados se familiaricen con las herramientas digitales y puedan integrarlas gradualmente.
 - **Desarrollo de conectores:**  
-  Crear APIs y conectores personalizados que integren sistemas legacy y herramientas existentes.
+  Crear APIs y conectores personalizados que integren los sistemas legacy y las nuevas herramientas digitales, facilitando la interoperabilidad.
 - **Transición progresiva:**  
-  Adoptar una estrategia gradual de digitalización para incorporar módulos digitales sin interrumpir la operativa actual.
+  Adoptar una estrategia gradual de digitalización que permita la incorporación de módulos digitales de manera paulatina sin interrumpir la operativa actual.
 
 ---
 
@@ -82,11 +82,11 @@
 
 ### ¿Qué necesidades actuales de la empresa resuelve tu software?
 - **Centralización de información:**  
-  Unifica datos dispersos para facilitar un acceso rápido y actualizado.
+  Unifica datos dispersos en una única plataforma, facilitando un acceso rápido y actualizado para todos los departamentos.
 - **Mejor organización y planificación:**  
-  Permite asignar tareas y gestionar calendarios de forma estructurada, evitando solapamientos y retrasos.
+  Permite asignar tareas y gestionar calendarios de manera estructurada, evitando solapamientos y retrasos que afectan la productividad.
 - **Reducción de tiempos administrativos:**  
-  Automatiza recordatorios y notificaciones, liberando tiempo para actividades estratégicas.
+  La automatización de recordatorios y notificaciones libera tiempo que puede ser invertido en actividades estratégicas y de mayor valor añadido.
 
 ---
 
@@ -94,21 +94,21 @@
 
 ### ¿Qué tecnologías habilitadoras has empleado y cómo impactan en las áreas de la empresa?
 - **Frontend (React):**  
-  Proporciona una interfaz de usuario moderna y reactiva, mejorando la interacción y facilidad de uso.
+  Proporciona una interfaz de usuario moderna y reactiva, lo que mejora significativamente la interacción y usabilidad para el usuario final.
 - **Backend (Node.js):**  
-  Ofrece un entorno escalable y eficiente para el procesamiento de datos y gestión de tareas.
+  Ofrece un entorno escalable y eficiente para el procesamiento de datos y gestión de tareas, asegurando rapidez y seguridad.
 - **Base de datos (MongoDB):**  
-  Permite un almacenamiento flexible y rápido de la información.
-- **Integración de APIs externas (Google Calendar, etc.):**  
-  Facilita la sincronización y gestión de eventos al integrarse con servicios externos.
+  Permite un almacenamiento flexible y rápido de la información, adecuado para manejar datos no estructurados de manera eficiente.
+- **Integración de APIs externas (por ejemplo, Google Calendar):**  
+  Facilita la sincronización y gestión de eventos al conectarse con servicios externos, integrando distintas fuentes de información en una sola plataforma.
 
 ### ¿Qué beneficios específicos aporta la implantación de estas tecnologías?
 - **Escalabilidad y rendimiento:**  
-  Capacidad de manejar un mayor volumen de usuarios y datos sin afectar el rendimiento.
+  Capacidad para manejar un alto volumen de usuarios y datos sin comprometer el rendimiento del sistema.
 - **Facilidad de integración:**  
-  Las APIs y conectores permiten una comunicación eficiente entre sistemas internos y externos.
+  Las APIs y conectores permiten una comunicación eficiente entre sistemas internos y externos, facilitando la interoperabilidad.
 - **Mantenimiento y evolución futuros:**  
-  Una arquitectura moderna que facilita la incorporación de nuevas funcionalidades y actualizaciones.
+  Una base tecnológica moderna que permite la rápida incorporación de nuevas funcionalidades y actualizaciones para adaptarse a las necesidades crecientes de la empresa.
 
 ---
 
@@ -116,21 +116,21 @@
 
 ### ¿Qué posibles brechas de seguridad podrían surgir al implementar tu software?
 - **Acceso no autorizado:**  
-  Riesgo de que usuarios externos o internos sin permisos accedan a datos sensibles.
+  Existe el riesgo de que usuarios externos o internos sin permiso puedan acceder a datos sensibles.
 - **Intercepción de datos en tránsito:**  
-  Vulnerabilidades durante la comunicación entre la aplicación y servicios externos.
+  Durante la comunicación entre la aplicación y los servicios externos, podrían producirse vulnerabilidades.
 - **Errores en la validación de datos:**  
-  Fallos en la validación que podrían permitir inyecciones maliciosas o accesos indebidos.
+  Fallos en la validación podrían permitir ataques de inyección o acceso indebido a la información.
 
 ### ¿Qué medidas concretas propondrías para mitigarlas?
 - **Autenticación robusta:**  
-  Implementar OAuth 2.0 y autenticación multifactor para reforzar el control de acceso.
+  Implementar OAuth 2.0 y autenticación multifactor para asegurar que solo usuarios autorizados puedan acceder.
 - **Cifrado de datos:**  
-  Uso de HTTPS y cifrado en reposo para proteger la información durante el tránsito y almacenamiento.
+  Uso obligatorio de HTTPS y cifrado en reposo para proteger la información tanto durante su transmisión como en almacenamiento.
 - **Auditorías y tests de seguridad:**  
-  Realizar pruebas de penetración y auditorías periódicas para identificar y corregir vulnerabilidades.
+  Realizar pruebas de penetración y auditorías de seguridad periódicas para detectar y corregir vulnerabilidades.
 - **Validación y sanitización rigurosa:**  
-  Establecer controles exhaustivos en todos los puntos de entrada de datos para evitar inyecciones y otras amenazas.
+  Establecer controles exhaustivos en todas las entradas de datos para evitar inyecciones y otros tipos de ataques.
 
 ---
 
@@ -138,16 +138,16 @@
 
 ### ¿Cómo se gestionan los datos en tu software y qué metodologías utilizas?
 - **Gestión centralizada:**  
-  Los datos se almacenan en una base de datos NoSQL (MongoDB) que facilita el manejo de información no estructurada.
+  Los datos se almacenan en una base de datos NoSQL (MongoDB) que permite el manejo eficiente de información no estructurada.
 - **Validación y sanitización:**  
-  Implementación de procedimientos de validación y sanitización en todas las entradas de datos para prevenir inconsistencias y ataques.
+  Se implementan procedimientos rigurosos de validación y sanitización en cada punto de entrada de datos para evitar inconsistencias y proteger contra ataques.
 - **Monitoreo y testeo:**  
-  Uso de pruebas unitarias e integradas junto a herramientas de monitoreo para asegurar la integridad y rendimiento del sistema.
+  Se utilizan pruebas unitarias e integradas junto a herramientas de monitoreo para asegurar la integridad y rendimiento del sistema durante todas las operaciones.
 
 ### ¿Qué haces para garantizar la calidad y consistencia de los datos?
 - **Automatización de pruebas:**  
-  Se ejecutan tests automatizados que verifican la integridad y consistencia de los datos durante todas las operaciones.
+  Se ejecutan tests automatizados que verifican la integridad y consistencia de los datos en cada operación, asegurando la fiabilidad del sistema.
 - **Revisión y auditoría continua:**  
-  Auditorías periódicas y revisiones de código aseguran el cumplimiento de las mejores prácticas en el tratamiento de datos.
+  Se realizan auditorías periódicas y revisiones de código para asegurar que se siguen las mejores prácticas en el tratamiento de datos.
 - **Documentación detallada:**  
-  La Wiki documenta exhaustivamente el flujo y gestión de datos, facilitando la identificación de problemas y la aplicación de mejoras continuas.
+  Toda la gestión y el flujo de datos se documenta exhaustivamente en la Wiki del proyecto, lo que facilita la identificación de problemas y la aplicación de mejoras continuas.
