@@ -13,7 +13,7 @@ Digitalizing task and calendar management is essential for companies still relyi
 - **Persistent Storage (Upcoming):** Future versions will include database integration.
 
 ## Deployment Overview
-This application is a command-line tool that can run on any system with Python installed. See the [INSTALLATION.md](INSTALLATION.md) for detailed installation and usage instructions on Windows, macOS, and Linux.
+This application is a command-line tool that can run on any system with Python installed. See the [Instalacion.md](instalacion.md) for detailed installation and usage instructions on Windows, macOS, and Linux.
 
 ## Usage Example
 Run the application from your terminal:
