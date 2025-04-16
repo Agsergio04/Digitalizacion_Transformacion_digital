@@ -11,5 +11,5 @@ Digitalizing task and calendar management is crucial for companies still relying
 ### Local Deployment
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/calendar-task-scheduler.git
+   git clone https://github.com/Agsergio04/Digitalizacion_Transformacion_digital.git
    cd Digitalizacion_Transformacion_digital
