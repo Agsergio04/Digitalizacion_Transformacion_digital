@@ -23,7 +23,7 @@ This guide explains how to install and run the Calendar and Task Scheduler App o
    - Open Command Prompt.
    - Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/calendar-task-scheduler.git
+     git clone https://github.com/Agsergio04/Digitalizacion_Transformacion_digital.git
      cd calendar-task-scheduler
      ```
      *Or* download the ZIP file and extract it.
@@ -55,7 +55,7 @@ This guide explains how to install and run the Calendar and Task Scheduler App o
    - Open Terminal.
    - Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/calendar-task-scheduler.git
+     git clone https://github.com/Agsergio04/Digitalizacion_Transformacion_digital.git
      cd calendar-task-scheduler
      ```
      *Or* download and unzip the repository.
@@ -89,7 +89,7 @@ This guide explains how to install and run the Calendar and Task Scheduler App o
    - Open your terminal.
    - Clone the repository:
      ```bash
-     git clone https://github.com/yourusername/calendar-task-scheduler.git
+     git clone https://github.com/Agsergio04/Digitalizacion_Transformacion_digital.git
      cd calendar-task-scheduler
      ```
      *Or* download the ZIP file and extract it.
