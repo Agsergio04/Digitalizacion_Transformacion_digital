@@ -1,5 +1,4 @@
 
----
 
 ## Archivo: instalacion.md
 
