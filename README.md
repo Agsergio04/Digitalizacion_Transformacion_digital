@@ -1,4 +1,4 @@
-# Calendar and Task Scheduler App
+# Digitalizacion_Transformacion_digital
 
 ## Motivation
 Digitalizing task and calendar management is crucial for companies still relying on manual processes. This project aims to centralize and automate event scheduling and task assignment, helping organizations:
@@ -12,4 +12,4 @@ Digitalizing task and calendar management is crucial for companies still relying
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/calendar-task-scheduler.git
-   cd calendar-task-scheduler
+   cd Digitalizacion_Transformacion_digital
