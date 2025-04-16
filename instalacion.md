@@ -31,7 +31,7 @@ This guide explains how to install and run the Calendar and Task Scheduler App o
 3. **Install Dependencies:**
    - Run the following command in the Command Prompt:
      ```bash
-     pip install -r requirements.txt
+     pip install -r requerimientos.txt
      ```
 
 4. **Run the Application:**
@@ -63,7 +63,7 @@ This guide explains how to install and run the Calendar and Task Scheduler App o
 3. **Install Dependencies:**
    - Run the following command in Terminal:
      ```bash
-     pip3 install -r requirements.txt
+     pip3 install -r requerimientos.txt
      ```
 
 4. **Run the Application:**
@@ -97,7 +97,7 @@ This guide explains how to install and run the Calendar and Task Scheduler App o
 3. **Install Dependencies:**
    - Run the following command:
      ```bash
-     pip3 install -r requirements.txt
+     pip3 install -r requerimientos.txt
      ```
 
 4. **Run the Application:**
