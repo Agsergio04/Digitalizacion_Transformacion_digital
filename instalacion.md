@@ -1,7 +1,7 @@
 
 ---
 
-## Archivo: INSTALLATION.md
+## Archivo: instalacion.md
 
 ```markdown
 # Installation Guide
